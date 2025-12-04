@@ -23,5 +23,5 @@ I am currently completing a Master’s in Data Science at the University of Texa
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin]([https://www.linkedin.com/in/evangelosbangoudis/])
+- [LinkedIn](https://www.linkedin.com/in/evangelosbangoudis/)
   
