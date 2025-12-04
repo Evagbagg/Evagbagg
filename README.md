@@ -1,16 +1,27 @@
-## Hi there 👋
+## 🙋🏻‍♀️ Introducing Myself
 
-<!--
-**Evagbagg/Evagbagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, I'm Evangelos a Data Scientist who combines statistical reasoning with modern ML to deliver reliable and scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently completing a Master’s in Data Science at the University of Texas at Austin, building on a BSc and an integrated MSc in Electrical and Computer Engineering.
+
+- End-to-end data science workflow.
+- Predictive analytics & statistical modelling.
+- Machine learning development.
+- ETL pipeline engineering & data quality automation.
+- Dashboarding & KPI reporting
+
+### 🛠️ Tools
+
+- Language: Python, R, SQL
+- Dataengineering: pandas, PySpark, Airflow, Azure Data Factory
+- Machine Learning: scikit-learn, XGBoost, LightGBM, Statsmodels
+- Databases: PostgreSQL, MySQL, SQL Server
+- Visualization & Reporting: Power BI, Tableau, Matplotlib, Seaborn, ggplot2
+- Development & Version Control: Git, GitHub, CI/CD practices
+- Productivity: Excel, PowerPoint
+
+### 👋🏻 Connect with Me
+
+- [Linkedin]([https://www.linkedin.com/in/evangelosbangoudis/])
+  
