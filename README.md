@@ -1,8 +1,8 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![for my github profile](https://github.com/user-attachments/assets/2c81b110-718d-4360-905a-101d394c3b6d)
-
 Hello, I'm Evangelos a Data Scientist who combines statistical reasoning with modern ML to deliver reliable and scalable solutions.
+
+![for my github profile](https://github.com/user-attachments/assets/2c81b110-718d-4360-905a-101d394c3b6d)
 
 I am currently completing a Master’s in Data Science at the University of Texas at Austin, building on a BSc and an integrated MSc in Electrical and Computer Engineering.
 
