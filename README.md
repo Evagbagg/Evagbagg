@@ -9,7 +9,7 @@ I am currently completing a Master’s in Data Science at the University of Texa
 - Predictive analytics & statistical modelling.
 - Machine learning development.
 - ETL pipeline engineering & data quality automation.
-- Dashboarding & KPI reporting
+- Dashboarding & KPI reporting.
 
 ### 🛠️ Tools
 
